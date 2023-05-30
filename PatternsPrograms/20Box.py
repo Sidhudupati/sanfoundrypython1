@@ -1,7 +1,7 @@
-print('*' * 12 )
+print('* ' * 6 )
 for i in range(4):
-    print('*' + ' ' * 10 + '*')
-print('*' * 12)
+    print('*' + ' ' * 9 + '*')
+print('* ' * 6)
 
 ''' Output
 * * * * * *
